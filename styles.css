@@ -1,0 +1,78 @@
+body { 
+    
+    color:black; text-align: center; font-family: serif; 
+}
+
+
+.green-background{ list-style-type: none ;
+        background-color: green; 
+        font-size: 19px;
+        text-align: middle; 
+        padding-bottom: 50px;
+        padding-top: 50px; 
+        margin-top: 2.7cm; 
+        float: center;
+
+
+}
+    
+    .pagina-aanduiding{ 
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 13px;}
+
+.helemaal{
+    background-color: wheat;
+}
+
+  
+
+
+ .bar{      list-style-type: none;
+            background-color: rgb(2, 2, 2);
+            margin-left: 0px;
+            margin-bottom: 25px;
+            position: fixed;
+            top: 0;
+            width: 99%;
+            padding-bottom: 0.5cm;
+          
+           
+            ;
+}
+    .wie { color: blanchedalmond; padding: 13px ;float: 
+        left; border-right: 1px solid #bbb;
+        border-left: 1px  solid #bbb ;border-bottom:1px solid #bbb ;
+        border-top: 1px solid #bbb ;
+        
+
+        }
+
+     .waarom{ display: block;
+        color: white;
+        color: blanchedalmond; padding: 13px ;float: 
+        left; border-right: 1px solid #bbb; 
+        border-bottom:1px solid #bbb ; border-top: 1px solid #bbb ;
+        ;
+        
+
+
+    }
+    .datum{font-display: inline; 
+        width:90px; 
+        padding: 20px ; 
+          ;font-size: 19px;
+        margin: 10px;background-color: yellow;float: left;}
+
+
+
+    .mijn-naam{font-display: inline; 
+        width:90px; 
+        padding: 20px ; 
+          ;font-size: 19px;
+        margin: 10px;background-color: yellow; float: left;}
+
+        .pagina2fix{margin-top: 5cm;}
+
+        .test {padding-top: 80px; margin:50px; text-align: left; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+
